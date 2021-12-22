@@ -15,12 +15,6 @@
       "Reminder": false,
       "Username": "temp",
       "Password": 1010
-    },
-    {
-      "Name": "gfv",
-      "Day": "fgrt",
-      "Reminder": true,
-      "id": 3
     }
   ]
 }
