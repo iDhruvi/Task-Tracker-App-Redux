@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "Name": "Check Emails",
+      "Day": "Jan 1st At 8AM",
+      "Reminder": true,
+      "Username": "dhruvi",
+      "Password": 1234
+    },
+    {
+      "id": 2,
+      "Name": "Attend The Meeting",
+      "Day": "Jan 1st At 11AM",
+      "Reminder": false,
+      "Username": "temp",
+      "Password": 1010
+    },
+    {
+      "Name": "gfv",
+      "Day": "fgrt",
+      "Reminder": true,
+      "id": 3
+    }
+  ]
+}
